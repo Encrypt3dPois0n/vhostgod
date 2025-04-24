@@ -1,0 +1,11 @@
+requests
+aiohttp
+rich
+flask
+pyfiglet
+bs4
+tldextract
+numpy
+scikit-learn
+selenium
+Jinja2
